@@ -52,5 +52,38 @@ java TestOne 执行文件
 注意: java 后只跟类名即可，不需要加后缀名
 
 ```
+### java关键字(不常见)
+<table>
+    <tr>
+	    <th>类别</th>
+	    <th>关键字</th>
+	    <th>说明</th>  
+	</tr>
+    <tr>
+        <th>访问控制</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <th rowspan="5">类、方法和变量修饰符</th>
+        <th>abstract</th>
+        <th>声明抽象</th>
+    </tr>
+    <tr>
+        <th>extends</th>
+        <th>扩充、继承</th>
+    </tr>
+    <tr>
+        <th>native</th>
+        <th>本地、原生方法(非java实现)</th>
+    </tr>
+    <tr>
+        <th>strictfp</th>
+        <th>短暂</th>
+    </tr>
+    <tr>
+        <th>volatile</th>
+        <th>易失</th>
+    </tr>
 
-
+</table>
